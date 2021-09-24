@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinhQuang28](https://github.com/MinhQuang28)
 
-- 💬 Ask me about **PHP, React-Native**
+- 💬 Ask me about **PHP, **Reactjs, React-Native**
 
 - 📫 How to reach me **haquang892@gmail.com**
 
