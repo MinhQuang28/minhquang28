@@ -7,13 +7,13 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently working on **DTT GROUP**
+- 🔭 I’m currently working on **ABC SOFT**
 
 - 🌱 I’m currently learning **React-Native, Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinhQuang28](https://github.com/MinhQuang28)
 
-- 💬 Ask me about **PHP, **Reactjs, React-Native**
+- 💬 Ask me about **Reactjs, React-Native**
 
 - 📫 How to reach me **haquang892@gmail.com**
 
