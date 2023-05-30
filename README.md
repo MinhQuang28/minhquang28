@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ABC SOFT**
 
-- 🌱 I’m currently learning **React-Native, Reactjs**
+- 🌱 I’m currently learning **React-Native, Reactjs**,  Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinhQuang28](https://github.com/MinhQuang28)
 
