@@ -1,37 +1,143 @@
-<h1 align="center">Hi 👋, I'm Ha Minh Quang</h1>
-<h3 align="center">A passionate frontend & backend developer from VietNam</h3>
+<h1 align="center">Ha Minh Quang</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhquang28&label=Profile%20views&color=0e75b6&style=flat" alt="minhquang28" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhquang28" alt="minhquang28" /></a> </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-
-- 🔭 I’m currently working on **ABC SOFT**
-
-- 🌱 I’m currently learning **React-Native, Reactjs**,
-
-- 👨‍💻 All of my projects are available at [https://github.com/MinhQuang28](https://github.com/MinhQuang28)
-
-- 💬 Ask me about **Reactjs, React-Native**
-
-- 📫 How to reach me **haquang892@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@minhquang28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@minhquang28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/minhquang28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minhquang28" height="30" width="40" /></a>
-<a href="https://fb.com/haminhquang99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="haminhquang99" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full-stack engineer</strong> — Shopify apps, Node.js/TypeScript services, and native macOS utilities.
+  <br>
+  <em>I like knowing why the machine does what it does.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhquang28&show_icons=true&count_private=true&locale=en&langs_count=8" alt="minhquang28" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MinhQuang28&count_private=true&show_icons=true&theme=radical&locale=en" alt="minhquang28" /></p>
+<h2>What I do</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhquang28&" alt="minhquang28" /></p>
+<p>
+  I build Shopify apps end to end — the merchant admin (React Router v7, Polaris, App Bridge),
+  the storefront widgets that have to stay small enough to load on every theme page, the
+  Shopify Functions underneath, and the NestJS services, queues and BigQuery pipelines behind
+  all of it.
+</p>
 
+<p>
+  I tend to get handed the parts that are hard to get right rather than hard to write:
+  multi-tenant data correctness, race conditions in cart mutations, carrier API integrations,
+  and analytics that a business actually makes decisions from. I also build the AI tooling my
+  team runs on — agent skill suites for a spec-to-code workflow, and LLM analyst agents that
+  answer business questions straight from the event warehouse.
+</p>
+
+<h2>What I'm curious about</h2>
+
+<p>
+  Operating systems, and what happens when you stop accepting the defaults.
+</p>
+
+<p>
+  Most of my side work starts the same way: something on my machine behaves worse than it
+  should, I go find out why, and the answer turns into a tool. That curiosity is where the
+  low-level half of my skill set comes from — event taps, IOKit, display services, privileged
+  writes you only make after staging a recovery path. Optimising a system is just the polite
+  word for refusing to leave it alone.
+</p>
+
+<h2>On operating systems</h2>
+
+<blockquote>
+  <p>
+    Unix is home. Linux and macOS are where I think, work and tinker — a real shell,
+    composable tools, and a system that lets you look inside it.
+  </p>
+  <p>
+    Windows lives on a second drive purely so games run. It is, as far as I'm concerned,
+    a games console that happens to have a Start menu. 🎮
+  </p>
+</blockquote>
+
+<h2>Things I've published</h2>
+
+<p>
+  This is where I put some of the source I write — mostly native macOS utilities I built
+  because I wanted them to exist, then released because someone else probably wants them too.
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MinhQuang28/Mousse">Mousse</a></h3>
+      <p>
+        Smooth scrolling, button remapping and a drag-to-switch-Spaces gesture for ordinary
+        mice. Single process, no background helper, negligible idle CPU, and it survives
+        sleep/wake and display changes.
+      </p>
+      <p><sub><code>Swift</code> · <code>macOS</code> · menu-bar app</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MinhQuang28/HiDisplay">HiDisplay</a></h3>
+      <p>
+        Adds the HiDPI resolutions macOS won't offer you, plus brightness control for external
+        displays. Every privileged write is preceded by a recovery package and verified by
+        hash afterwards.
+      </p>
+      <p><sub><code>Swift</code> · <code>macOS</code> · menu-bar app</sub></p>
+    </td>
+  </tr>
+</table>
+
+<h2>Stack</h2>
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>TypeScript · JavaScript · SQL · Swift · PHP</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>NestJS · Express · Prisma · PostgreSQL · MongoDB · Redis · BullMQ · AWS SQS</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React 19 · React Router v7 · Preact · TanStack Query · Tailwind · Vite</td>
+  </tr>
+  <tr>
+    <td><strong>Shopify</strong></td>
+    <td>Admin GraphQL · Functions · theme app &amp; checkout UI extensions · webhooks · Polaris · App Bridge</td>
+  </tr>
+  <tr>
+    <td><strong>Data &amp; AI</strong></td>
+    <td>BigQuery · GA4 modelling · Claude Code agent/skill design · MCP tooling · LLM evals</td>
+  </tr>
+  <tr>
+    <td><strong>Infra</strong></td>
+    <td>Docker · AWS · GitHub Actions · pnpm workspaces · Jest</td>
+  </tr>
+</table>
+
+<h2>Elsewhere</h2>
+
+<p>
+  <a href="mailto:help@egohub.co">
+    <img src="https://img.shields.io/badge/Email-help%40egohub.co-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/minhquang28">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://dev.to/minhquang28">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to">
+  </a>
+  <a href="https://fb.com/haminhquang99">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Vietnamese (native) · English (professional working proficiency)</sub>
+</p>
