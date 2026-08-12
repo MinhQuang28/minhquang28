@@ -124,8 +124,8 @@
 <h2>Elsewhere</h2>
 
 <p>
-  <a href="mailto:help@egohub.co">
-    <img src="https://img.shields.io/badge/Email-help%40egohub.co-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:haquang892@gmail.com">
+    <img src="https://img.shields.io/badge/Email-haquang892%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/minhquang28">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
